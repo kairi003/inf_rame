@@ -2,4 +2,4 @@
 
 だって同じことが繰り返されるんだぜ？
 
-【閲覧注意】[https://kairi003.github.io/inf_rame/]((https://kairi003.github.io/inf_rame/))
+【閲覧注意】[https://kairi003.github.io/inf_rame/](https://kairi003.github.io/inf_rame/)
