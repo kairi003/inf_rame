@@ -6,6 +6,7 @@
 </head>
 <body>
 無限ループって怖くね？
-<iframe src="javascript:location=parent.location+'?'"></iframe>
+<iframe id="ifr"></iframe>
+<script>ifr.src=location+'?'</script>
 </body>
 </html>
